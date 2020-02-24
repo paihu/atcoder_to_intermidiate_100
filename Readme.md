@@ -11,8 +11,8 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/abc095/submissions/10258714
 - [x] https://atcoder.jp/contests/sumitrust2019/submissions/10303408
 - [x] https://atcoder.jp/contests/joi2007ho/submissions/10307816
-- [ ] https://atcoder.jp/contests/s8pc-6/tasks/s8pc_6_b
-- [ ] https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_d
+- [x] https://atcoder.jp/contests/s8pc-6/submissions/10323448
+- [x] https://atcoder.jp/contests/joi2008yo/submissions/10324069
 
 # full search 3
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja
