@@ -16,7 +16,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # full search 3
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_5_A&lang=ja
-- [ ] https://atcoder.jp/contests/abc128/tasks/abc128_c
+- [x] https://atcoder.jp/contests/abc128/submissions/10338279
 - [ ] https://atcoder.jp/contests/abc002/tasks/abc002_4
 - [ ] https://atcoder.jp/contests/joi2008yo/tasks/joi2008yo_e
 - [ ] https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b
