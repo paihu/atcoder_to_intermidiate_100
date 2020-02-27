@@ -19,7 +19,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/abc128/submissions/10338279
 - [x] https://abc002.contest.atcoder.jp/submissions/10352325
 - [x] https://atcoder.jp/contests/joi2008yo/submissions/10355833
-- [ ] https://atcoder.jp/contests/s8pc-4/tasks/s8pc_4_b
+- [x] https://atcoder.jp/contests/s8pc-4/submissions/10368813
 
 # full search 4
 - [ ] https://atcoder.jp/contests/abc145/tasks/abc145_c
