@@ -22,7 +22,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/s8pc-4/submissions/10368813
 
 # full search 4
-- [ ] https://atcoder.jp/contests/abc145/tasks/abc145_c
+- [x] https://atcoder.jp/contests/abc145/submissions/10374412
 - [ ] https://atcoder.jp/contests/abc150/tasks/abc150_c
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_13_A&lang=ja
 
