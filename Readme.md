@@ -28,7 +28,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # binary search
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja
-- [ ] https://atcoder.jp/contests/joi2009ho/tasks/joi2009ho_b
+- [x] https://atcoder.jp/contests/joi2009ho/submissions/10388346
 - [ ] https://atcoder.jp/contests/abc077/tasks/arc084_a
 - [ ] https://atcoder.jp/contests/abc023/tasks/abc023_d
 - [ ] https://atcoder.jp/contests/arc054/tasks/arc054_b
