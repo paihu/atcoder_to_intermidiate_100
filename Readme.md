@@ -30,7 +30,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_4_B&lang=ja
 - [x] https://atcoder.jp/contests/joi2009ho/submissions/10388346
 - [x] https://atcoder.jp/contests/abc077/submissions/10399725
-- [ ] https://atcoder.jp/contests/abc023/tasks/abc023_d
+- [x] https://atcoder.jp/contests/abc023/submissions/10487683
 - [ ] https://atcoder.jp/contests/arc054/tasks/arc054_b
 - [ ] https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_c
 
