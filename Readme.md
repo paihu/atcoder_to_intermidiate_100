@@ -37,8 +37,8 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # depth-first search
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_B
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1160&lang=jp
-- [ ] https://atcoder.jp/contests/abc138/tasks/abc138_d
-- [ ] https://atcoder.jp/contests/joi2009yo/tasks/joi2009yo_d
+- [x] https://atcoder.jp/contests/abc138/submissions/10518405
+- [x] https://atcoder.jp/contests/joi2009yo/submissions/10519812
 
 # Breadth-first search
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja
