@@ -42,7 +42,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # Breadth-first search
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_11_C&lang=ja
-- [ ] https://atcoder.jp/contests/abc007/tasks/abc007_3
+- [x] https://atcoder.jp/contests/abc007/submissions/10538876
 - [ ] https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e
 - [ ] https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_e
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1166&lang=jp
