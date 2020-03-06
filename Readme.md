@@ -46,7 +46,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/joi2011yo/submissions/10541521
 - [x] https://atcoder.jp/contests/joi2012yo/submissions/10558282
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1166&lang=jp
-- [ ] https://atcoder.jp/contests/abc088/tasks/abc088_d
+- [x] https://atcoder.jp/contests/abc088/submissions/10560583
 
 # DP
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_A&lang=ja
