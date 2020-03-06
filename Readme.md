@@ -54,7 +54,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_C&lang=ja
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_A&lang=ja
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_C&lang=ja
-- [ ] https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d
+- [x] https://atcoder.jp/contests/joi2011yo/submissions/10562399, https://atcoder.jp/contests/joi2011yo/submissions/10562912
 - [ ] https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d
 - [ ] https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d
 - [ ] https://atcoder.jp/contests/joi2015yo/tasks/joi2015yo_d
