@@ -58,7 +58,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/joi2012yo/submissions/10577668
 - [x] https://atcoder.jp/contests/joi2013yo/submissions/10577028
 - [x] https://atcoder.jp/contests/joi2015yo/submissions/10579515
-- [ ] https://atcoder.jp/contests/pakencamp-2019-day3/tasks/pakencamp_2019_day3_d
+- [x] https://atcoder.jp/contests/pakencamp-2019-day3/submissions/10654675
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1167&lang=jp
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2199&lang=jp
 
