@@ -64,7 +64,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # DP (sectional)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ALDS1_10_B&lang=ja
-- [ ] https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_b
+- [x] https://atcoder.jp/contests/joi2015ho/submissions/10701774
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1611&lang=jp
 
 # DP (bit)
