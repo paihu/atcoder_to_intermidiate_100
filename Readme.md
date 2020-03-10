@@ -75,7 +75,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # DP (other)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_1_D&lang=ja
-- [ ] https://abc006.contest.atcoder.jp/tasks/abc006_4
-- [ ] https://atcoder.jp/contests/abc134/tasks/abc134_e
+- [x] https://atcoder.jp/contests/abc006/submissions/10727965
+- [x] https://atcoder.jp/contests/abc134/submissions/10729047
 
 #
