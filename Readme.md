@@ -78,4 +78,72 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/abc006/submissions/10727965
 - [x] https://atcoder.jp/contests/abc134/submissions/10729047
 
-#
+# DP (djkstra)
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja
+- [x] https://atcoder.jp/contests/joi2008yo/submissions/10734023
+- [ ] https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e
+- [ ] https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e
+
+# DP (Warshall–Floyd Algorithm)
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja
+- [ ] https://atcoder.jp/contests/abc012/tasks/abc012_4
+- [ ] https://atcoder.jp/contests/abc079/tasks/abc079_d
+- [ ] https://atcoder.jp/contests/abc074/tasks/arc083_b
+
+# minimum spanning-tree
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja
+- [ ] https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1127
+- [ ] https://atcoder.jp/contests/abc065/tasks/arc076_b
+
+# is prime ?
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja
+- [ ] https://atcoder.jp/contests/abc084/tasks/abc084_d
+
+# Exponentiation
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja
+- [ ] https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e
+
+# inverse element
+- [ ] https://atcoder.jp/contests/abc034/tasks/abc034_c
+- [ ] https://atcoder.jp/contests/abc145/tasks/abc145_d
+- [ ] https://abc021.contest.atcoder.jp/tasks/abc021_d
+- [ ] https://atcoder.jp/contests/abc149/tasks/abc149_f
+
+# CUSUM
+- [ ] https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a
+- [ ] https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a
+- [ ] https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1
+- [ ] https://atcoder.jp/contests/abc106/tasks/abc106_d
+- [ ] https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d
+- [ ] https://atcoder.jp/contests/abc014/tasks/abc014_3
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2013
+- [ ] https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a
+- [ ] https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4
+
+# Union Find
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja
+- [ ] https://atcoder.jp/contests/abc075/tasks/abc075_c?lang=ja
+- [ ] https://atcoder.jp/contests/abc120/tasks/abc120_d
+
+# others (compress)
+- [ ] https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a
+- [ ] https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1
+
+# other (computational geometry)
+- [ ] https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b
+- [ ] https://atcoder.jp/contests/abc144/tasks/abc144_d
+
+# other (heavy imprementation)
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1193&lang=jp
+- [ ] https://atcoder.jp/contests/s8pc-3/tasks/s8pc_3_b
+- [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1149&lang=jp
+
+# other (mathematics)
+- [ ] https://atcoder.jp/contests/abc149/tasks/abc149_b
+- [ ] https://atcoder.jp/contests/abc139/tasks/abc139_d
+- [ ] https://atcoder.jp/contests/abc150/tasks/abc150_d
+- [ ] https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e
+- [ ] https://atcoder.jp/contests/ddcc2020-qual/tasks/ddcc2020_qual_d
+- [ ] https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d
+
