@@ -70,7 +70,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # DP (bit)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DPL_2_A&lang=ja
 - [x] https://atcoder.jp/contests/s8pc-1/submissions/10709326
-- [ ] https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_d
+- [x] https://atcoder.jp/contests/joi2014yo/submissions/10723635
 - [ ] https://atcoder.jp/contests/joi2017yo/tasks/joi2017yo_d
 
 # DP (other)
