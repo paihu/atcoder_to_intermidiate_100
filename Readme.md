@@ -86,7 +86,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # DP (Warshall–Floyd Algorithm)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja
-- [ ] https://atcoder.jp/contests/abc012/tasks/abc012_4
+- [x] https://atcoder.jp/contests/abc012/submissions/10755355
 - [ ] https://atcoder.jp/contests/abc079/tasks/abc079_d
 - [ ] https://atcoder.jp/contests/abc074/tasks/arc083_b
 
