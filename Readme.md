@@ -81,7 +81,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # DP (djkstra)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_A&lang=ja
 - [x] https://atcoder.jp/contests/joi2008yo/submissions/10734023
-- [ ] https://atcoder.jp/contests/joi2016yo/tasks/joi2016yo_e
+- [x] https://atcoder.jp/contests/joi2016yo/submissions/10749435
 - [ ] https://atcoder.jp/contests/joi2014yo/tasks/joi2014yo_e
 
 # DP (Warshall–Floyd Algorithm)
