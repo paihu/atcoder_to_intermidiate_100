@@ -88,7 +88,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja
 - [x] https://atcoder.jp/contests/abc012/submissions/10755355
 - [x] https://atcoder.jp/contests/abc079/submissions/10768476
-- [ ] https://atcoder.jp/contests/abc074/tasks/arc083_b
+- [x] https://atcoder.jp/contests/abc074/submissions/10769077
 
 # minimum spanning-tree
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja
