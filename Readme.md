@@ -87,7 +87,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # DP (Warshall–Floyd Algorithm)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_1_C&lang=ja
 - [x] https://atcoder.jp/contests/abc012/submissions/10755355
-- [ ] https://atcoder.jp/contests/abc079/tasks/abc079_d
+- [x] https://atcoder.jp/contests/abc079/submissions/10768476
 - [ ] https://atcoder.jp/contests/abc074/tasks/arc083_b
 
 # minimum spanning-tree
