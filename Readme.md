@@ -94,7 +94,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=GRL_2_A&lang=ja
 - [ ] https://atcoder.jp/contests/joisc2010/tasks/joisc2010_finals
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1127
-- [ ] https://atcoder.jp/contests/abc065/tasks/arc076_b
+- [x] https://atcoder.jp/contests/abc065/submissions/10800638
 
 # is prime ?
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja
