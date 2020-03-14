@@ -102,7 +102,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # Exponentiation
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja
-- [ ] https://atcoder.jp/contests/s8pc-1/tasks/s8pc_1_e
+- [x] https://atcoder.jp/contests/s8pc-1/submissions/10813968
 
 # inverse element
 - [ ] https://atcoder.jp/contests/abc034/tasks/abc034_c
