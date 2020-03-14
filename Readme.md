@@ -98,7 +98,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # is prime ?
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_A&lang=ja
-- [ ] https://atcoder.jp/contests/abc084/tasks/abc084_d
+- [x] https://atcoder.jp/contests/abc084/submissions/10812922
 
 # Exponentiation
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=NTL_1_B&lang=ja
