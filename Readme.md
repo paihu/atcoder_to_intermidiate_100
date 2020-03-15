@@ -105,7 +105,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/s8pc-1/submissions/10813968
 
 # inverse element
-- [ ] https://atcoder.jp/contests/abc034/tasks/abc034_c
+- [x] https://atcoder.jp/contests/abc034/submissions/10915034
 - [ ] https://atcoder.jp/contests/abc145/tasks/abc145_d
 - [ ] https://abc021.contest.atcoder.jp/tasks/abc021_d
 - [ ] https://atcoder.jp/contests/abc149/tasks/abc149_f
