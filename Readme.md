@@ -107,7 +107,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # inverse element
 - [x] https://atcoder.jp/contests/abc034/submissions/10915034
 - [x] https://atcoder.jp/contests/abc145/submissions/10930369
-- [ ] https://abc021.contest.atcoder.jp/tasks/abc021_d
+- [x] https://atcoder.jp/contests/abc021/submissions/10931506
 - [ ] https://atcoder.jp/contests/abc149/tasks/abc149_f
 
 # CUSUM
