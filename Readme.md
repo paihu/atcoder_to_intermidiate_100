@@ -111,7 +111,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] https://atcoder.jp/contests/abc149/tasks/abc149_f
 
 # CUSUM
-- [ ] https://atcoder.jp/contests/nikkei2019-final/tasks/nikkei2019_final_a
+- [x] https://atcoder.jp/contests/nikkei2019-final/submissions/10960472
 - [ ] https://atcoder.jp/contests/joi2010ho/tasks/joi2010ho_a
 - [ ] https://atcoder.jp/contests/joi2011ho/tasks/joi2011ho1
 - [ ] https://atcoder.jp/contests/abc106/tasks/abc106_d
