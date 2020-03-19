@@ -116,7 +116,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/joi2011ho/submissions/10978767
 - [x] https://atcoder.jp/contests/abc106/submissions/10980599
 - [ ] https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d
-- [ ] https://atcoder.jp/contests/abc014/tasks/abc014_3
+- [x] https://atcoder.jp/contests/abc014/submissions/11001641
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2013
 - [ ] https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a
 - [ ] https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4
