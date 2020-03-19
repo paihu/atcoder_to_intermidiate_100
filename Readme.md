@@ -118,7 +118,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [ ] https://atcoder.jp/contests/gigacode-2019/tasks/gigacode_2019_d
 - [x] https://atcoder.jp/contests/abc014/submissions/11001641
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2013
-- [ ] https://atcoder.jp/contests/joi2015ho/tasks/joi2015ho_a
+- [x] https://atcoder.jp/contests/joi2015ho/submissions/11001988
 - [ ] https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4
 
 # Union Find
