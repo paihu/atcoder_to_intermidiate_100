@@ -119,7 +119,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/abc014/submissions/11001641
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=2013
 - [x] https://atcoder.jp/contests/joi2015ho/submissions/11001988
-- [ ] https://atcoder.jp/contests/joi2012ho/tasks/joi2012ho4
+- [x] https://atcoder.jp/contests/joi2012ho/submissions/11147554
 
 # Union Find
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja
