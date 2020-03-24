@@ -123,7 +123,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # Union Find
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja
-- [ ] https://atcoder.jp/contests/abc075/tasks/abc075_c?lang=ja
+- [x] https://atcoder.jp/contests/abc075/submissions/11173954
 - [ ] https://atcoder.jp/contests/abc120/tasks/abc120_d
 
 # others (compress)
