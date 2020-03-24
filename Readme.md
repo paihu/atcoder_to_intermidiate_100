@@ -124,7 +124,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 # Union Find
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=DSL_1_A&lang=ja
 - [x] https://atcoder.jp/contests/abc075/submissions/11173954
-- [ ] https://atcoder.jp/contests/abc120/tasks/abc120_d
+- [x] https://atcoder.jp/contests/abc120/submissions/11175623
 
 # others (compress)
 - [ ] https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a
