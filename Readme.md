@@ -127,7 +127,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/abc120/submissions/11175623
 
 # others (compress)
-- [ ] https://atcoder.jp/contests/joi2008ho/tasks/joi2008ho_a
+- [x] https://atcoder.jp/contests/joi2008ho/submissions/11215652
 - [ ] https://atcoder.jp/contests/joi2013ho/tasks/joi2013ho1
 
 # other (computational geometry)
