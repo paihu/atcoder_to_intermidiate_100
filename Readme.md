@@ -131,7 +131,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 - [x] https://atcoder.jp/contests/joi2013ho/submissions/11232724
 
 # other (computational geometry)
-- [ ] https://atcoder.jp/contests/s8pc-5/tasks/s8pc_5_b
+- [x] https://atcoder.jp/contests/s8pc-5/submissions/11252398
 - [ ] https://atcoder.jp/contests/abc144/tasks/abc144_d
 
 # other (heavy imprementation)
