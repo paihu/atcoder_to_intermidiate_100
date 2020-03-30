@@ -132,7 +132,7 @@ see https://qiita.com/e869120/items/eb50fdaece12be418faa
 
 # other (computational geometry)
 - [x] https://atcoder.jp/contests/s8pc-5/submissions/11252398
-- [ ] https://atcoder.jp/contests/abc144/tasks/abc144_d
+- [x] https://atcoder.jp/contests/abc144/submissions/11361858
 
 # other (heavy imprementation)
 - [ ] http://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=1193&lang=jp
